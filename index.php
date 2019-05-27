@@ -1,5 +1,5 @@
 <?php
-0df
+
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
@@ -22,6 +22,7 @@ class ActivityController extends Controller
 	   $this->middleware('auth');
 	}
 	
+
 	public function oep_licence_activity_logs123()
 	{
 		123123
